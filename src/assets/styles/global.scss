@@ -1,0 +1,12 @@
+@import './reset.scss';
+@import './vars.scss';
+@import './mixins.scss';
+
+body {
+  font-family: 'Eudoxus-Sans', sans-serif;
+}
+
+.container {
+  width: 1170px;
+  margin: 0 auto;
+}
